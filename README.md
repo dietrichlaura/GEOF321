@@ -8,7 +8,7 @@ go to your working directory,e.g.  "cd /Data/gfi/work/ldi022/GEOF321/Desmond_T25
 
 type either "wget https://github.com/dietrichlaura/GEOF321/blob/master/plot_results.ipynb" to get the file only
 
-or git clone 
+or git clone https://github.com/dietrichlaura/GEOF321.git to get the git respository
 
 type "jupyter-notebook --no-browser --port=200524" to start a jupiter notebook
 
