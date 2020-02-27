@@ -6,7 +6,9 @@ type "ssh -L 7777:localhost:20054 ldi022@cyclone.hpc.uib.no" (or cycloneL if ali
 
 go to your working directory,e.g.  "cd /Data/gfi/work/ldi022/GEOF321/Desmond_T255L91/plots"
 
-wget https://github.com/dietrichlaura/GEOF321/blob/master/plot_results.ipynb
+type either "wget https://github.com/dietrichlaura/GEOF321/blob/master/plot_results.ipynb" to get the file only
+
+or git clone https://github.com/dietrichlaura/GEOF321.git to get the git respository
 
 type "jupyter-notebook --no-browser --port=200524" to start a jupiter notebook
 
