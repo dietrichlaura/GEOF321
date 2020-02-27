@@ -1,9 +1,0 @@
-open terminal
-type "ssh -L 7777:localhost:20054 ldi022@cyclone.hpc.uib.no" (or cycloneL if alias is added in .bash_profile)
-go to your working directory,e.g.  "cd /Data/gfi/work/ldi022/GEOF321/Desmond_T255L91/plots"
-wget 
-type "jupyter-notebook --no-browser --port=200524" to start a jupiter notebook
-
-open a browser (e.g. firefox or safari)
-type "localhost:7777/lab" in the command line
-
